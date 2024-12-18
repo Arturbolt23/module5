@@ -96,6 +96,8 @@ print(House.houses_history)
 
 
 
+
+
 # Удаление объектов
 
 del h2
